@@ -19,7 +19,7 @@ String password = "Classic3#"; //Wifi Password
 String apiKeyIn = "............."; // API Key
 const unsigned int writeInterval = 25000; // write interval (in ms)
 
-// ASKSENSORS API host config
+// ASKSENSORS API host config Testtest
 String host = "www.google.com";  // API host name
 String port = "80";      // port
 
